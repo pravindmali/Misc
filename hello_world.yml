@@ -5,7 +5,6 @@
       debug:
         msg: "Hello World!"
         
-  tasks:
     - name: Hello Message sesond
       debug:
         msg: "Hello World! again"        
